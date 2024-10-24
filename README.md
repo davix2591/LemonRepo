@@ -1,4 +1,9 @@
 # LemonRepo
+API paths:
+/restaurant/menu/
+/restaurant/booking/
+/restaurant/booking/tables/
+
 
 superuser: dave
 password: panthers
